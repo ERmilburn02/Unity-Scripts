@@ -1,6 +1,7 @@
 // Code by https://answers.unity.com/users/96/jashan.html
 
 // This code relies on the old Input System, and takes a 1080p screenshot from the main camera's viewport, no matter the resolution the game is running at.
+// Please note that this will not capture UI
 using UnityEngine;
 
 public class HiResScreenShots : MonoBehaviour
