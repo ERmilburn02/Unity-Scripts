@@ -49,4 +49,6 @@ public class HiResScreenShots : MonoBehaviour
             Debug.Log(string.Format("Took screenshot to: {0}", filename));
             takeHiResShot = false;
         }
+    }
+}
  
